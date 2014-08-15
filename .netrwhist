@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/kellyveit/Nestlabs/GitRepos/pumice/production/sw/nestlabs/apps/smoke'
+let g:netrw_dirhist_2='/home/kellyveit/Nestlabs/GitRepos/pumice/production/sw/fps'
+let g:netrw_dirhist_3='/home/kellyveit/Nestlabs/GitRepos/pumice/production/sw/fps/test-framework'
+let g:netrw_dirhist_4='/home/kellyveit/Nestlabs/GitRepos/dolomite/production/sw/nestlabs/apps/topaz/app/resources/audio/.build/Makefile/topaz/gnu/gcc/4.8.3/development/topazaudio/audio/en_US'
+let g:netrw_dirhist_5='/home/kellyveit/Nestlabs/GitRepos/pumice/production/sw/nestlabs/platform/include/driver/t2'
